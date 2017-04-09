@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poltekpos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pendidikan.xsd">
+	<mahasiswa>
+		<nama>Simon Sorba Manangi</nama>
+		<kelas>D4 Teknik Informatika 2A</kelas>
+		<NPM>1154019</NPM>
+		<email>simon.nababan797@gmail.com</email>
+		<asal>
+			<daerah>Cirebon</daerah>
+			<provinsi>Jawa Barat</provinsi>
+		</asal>
+	</mahasiswa>
+	
+	<mahasiswa>
+		<nama>Marini Ledysha Rismadiani</nama>
+		<kelas>D4 Logistik Bisnis 2A</kelas>
+		<NPM>6154065</NPM>
+		<email>uchyjuman@gmail.com</email>
+		<asal>
+			<daerah>Kepahiang</daerah>
+			<provinsi>Bengkulu</provinsi>
+		</asal>
+	</mahasiswa>
+	
+	<mahasiswa>
+		<nama>Deby Weroza Utami</nama>
+		<kelas>D4 Akuntansi 2C</kelas>
+		<NPM>2154001</NPM>
+		<email>debywerozautami@gmail.com</email>
+		<asal>
+			<daerah>Padang</daerah>
+			<provinsi>Sumatera Barat</provinsi>
+		</asal>
+	</mahasiswa>
+	
+	<mahasiswa>
+		<nama>Awlita Pramayani</nama>
+		<kelas>D4 Menajemen Informatika 2A</kelas>
+		<NPM>3154002</NPM>
+		<email>awlitapramayani@gmail.com</email>
+		<asal>
+			<daerah>Padang</daerah>
+			<provinsi>Sumatera Barat</provinsi>
+		</asal>
+	</mahasiswa>
+	
+	<mahasiswa>
+		<nama>Novrianty Sagita Nawir</nama>
+		<kelas>D4 Manajemen Bisnis 2B</kelas>
+		<NPM>4154003</NPM>
+		<email>gigita@gmail.com</email>
+		<asal>
+			<daerah>Pare-Pare</daerah>
+			<provinsi>Sulawesi Selatan</provinsi>
+		</asal>
+	</mahasiswa>
+</poltekpos>
